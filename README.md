@@ -1,0 +1,1 @@
+Project is to create a simple and brutalist website to ensure I have learnt some of the fundamental concepts of HTML language. 
